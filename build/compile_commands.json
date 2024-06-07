@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/ostiumaxioma/Development/cmake_vscode/build",
+  "command": "/usr/bin/clang  -I/Users/ostiumaxioma/Development/cmake_vscode/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/glad.dir/glad.c.o -c /Users/ostiumaxioma/Development/cmake_vscode/glad.c",
+  "file": "/Users/ostiumaxioma/Development/cmake_vscode/glad.c",
+  "output": "CMakeFiles/glad.dir/glad.c.o"
+},
+{
+  "directory": "/Users/ostiumaxioma/Development/cmake_vscode/build",
+  "command": "/usr/bin/clang++  -I/Users/ostiumaxioma/Development/cmake_vscode/include -isystem /usr/local/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/cmake_vscode.dir/main.cpp.o -c /Users/ostiumaxioma/Development/cmake_vscode/main.cpp",
+  "file": "/Users/ostiumaxioma/Development/cmake_vscode/main.cpp",
+  "output": "CMakeFiles/cmake_vscode.dir/main.cpp.o"
+}
+]

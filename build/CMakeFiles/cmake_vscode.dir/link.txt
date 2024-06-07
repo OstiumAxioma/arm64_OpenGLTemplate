@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmake_vscode.dir/main.cpp.o -o cmake_vscode  /usr/local/lib/libglfw3.a libglad.a -framework Cocoa -framework IOKit -framework CoreFoundation -framework CoreVideo -framework Carbon -framework QuartzCore
